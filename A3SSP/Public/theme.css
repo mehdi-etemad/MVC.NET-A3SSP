@@ -1,0 +1,26 @@
+﻿header {
+    
+}
+header div.HeaderLogo {
+    text-align:center;
+}
+header div.HeaderUser {
+    
+}
+main {
+    
+}
+main div.MainMenu {
+    padding:30px;
+}
+main div.MainContent {
+    padding:30px;
+}
+nav {
+    
+}
+footer {
+    padding:10px;
+    background-color:lightslategray;
+    text-align:center;
+}

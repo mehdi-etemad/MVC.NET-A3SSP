@@ -1,0 +1,184 @@
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\ApplicationInsights.config
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\csc.exe
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\System.Collections.Immutable.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\System.Reflection.Metadata.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\vbc.exe
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\VBCSCompiler.exe
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\roslyn\VBCSCompiler.exe.config
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\A3SSP.dll.config
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\A3SSP.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\A3SSP.pdb
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.DependencyCollector.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.Web.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.WindowsServer.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.ApplicationInsights.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.Web.Infrastructure.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Helpers.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Mvc.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Razor.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Webpages.Deployment.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Webpages.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Webpages.Razor.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.DependencyCollector.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.Web.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.AI.WindowsServer.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.ApplicationInsights.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Razor.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Webpages.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Webpages.Deployment.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Webpages.Razor.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Helpers.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\bin\System.Web.Mvc.xml
+D:\WWW\ASP.NET\A3SSP\A3SSP\obj\Debug\A3SSP.csprojResolveAssemblyReference.cache
+D:\WWW\ASP.NET\A3SSP\A3SSP\obj\Debug\A3SSP.dll
+D:\WWW\ASP.NET\A3SSP\A3SSP\obj\Debug\A3SSP.pdb
+D:\Program Files\A3SSP\14000210\A3SSP\bin\ApplicationInsights.config
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\csc.exe
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\System.Collections.Immutable.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\vbc.exe
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\VBCSCompiler.exe
+D:\Program Files\A3SSP\14000210\A3SSP\bin\roslyn\VBCSCompiler.exe.config
+D:\Program Files\A3SSP\14000210\A3SSP\bin\A3SSP.dll.config
+D:\Program Files\A3SSP\14000210\A3SSP\bin\A3SSP.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\A3SSP.pdb
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.DependencyCollector.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.Web.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.WindowsServer.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.ApplicationInsights.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.Web.Infrastructure.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Helpers.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Mvc.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Razor.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Webpages.Deployment.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Webpages.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Webpages.Razor.dll
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.DependencyCollector.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.Web.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.AI.WindowsServer.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.ApplicationInsights.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Razor.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Webpages.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Webpages.Deployment.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Webpages.Razor.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Helpers.xml
+D:\Program Files\A3SSP\14000210\A3SSP\bin\System.Web.Mvc.xml
+D:\Program Files\A3SSP\14000210\A3SSP\obj\Debug\A3SSP.csprojResolveAssemblyReference.cache
+D:\Program Files\A3SSP\14000210\A3SSP\obj\Debug\A3SSP.dll
+D:\Program Files\A3SSP\14000210\A3SSP\obj\Debug\A3SSP.pdb
+D:\Program Files\A3SSP\14000211\A3SSP\bin\ApplicationInsights.config
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\csc.exe
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\System.Collections.Immutable.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\vbc.exe
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\VBCSCompiler.exe
+D:\Program Files\A3SSP\14000211\A3SSP\bin\roslyn\VBCSCompiler.exe.config
+D:\Program Files\A3SSP\14000211\A3SSP\bin\A3SSP.dll.config
+D:\Program Files\A3SSP\14000211\A3SSP\bin\A3SSP.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\A3SSP.pdb
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.DependencyCollector.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.Web.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.WindowsServer.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.ApplicationInsights.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.Web.Infrastructure.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Helpers.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Mvc.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Razor.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Webpages.Deployment.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Webpages.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Webpages.Razor.dll
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.DependencyCollector.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.Web.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.AI.WindowsServer.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.ApplicationInsights.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Razor.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Webpages.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Webpages.Deployment.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Webpages.Razor.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Helpers.xml
+D:\Program Files\A3SSP\14000211\A3SSP\bin\System.Web.Mvc.xml
+D:\Program Files\A3SSP\14000211\A3SSP\obj\Debug\A3SSP.csprojResolveAssemblyReference.cache
+D:\Program Files\A3SSP\14000211\A3SSP\obj\Debug\A3SSP.dll
+D:\Program Files\A3SSP\14000211\A3SSP\obj\Debug\A3SSP.pdb
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\ApplicationInsights.config
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\csc.exe
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\System.Collections.Immutable.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\System.Reflection.Metadata.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\vbc.exe
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\VBCSCompiler.exe
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\roslyn\VBCSCompiler.exe.config
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\A3SSP.dll.config
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\A3SSP.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\A3SSP.pdb
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.DependencyCollector.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.Web.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.WindowsServer.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.ApplicationInsights.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.Web.Infrastructure.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Helpers.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Mvc.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Razor.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Webpages.Deployment.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Webpages.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Webpages.Razor.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.DependencyCollector.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.Web.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.AI.WindowsServer.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.ApplicationInsights.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Razor.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Webpages.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Webpages.Deployment.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Webpages.Razor.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Helpers.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\bin\System.Web.Mvc.xml
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\obj\Debug\A3SSP.csprojResolveAssemblyReference.cache
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\obj\Debug\A3SSP.dll
+D:\WWW\ASP.NET\A3SSP\14000215\A3SSP\obj\Debug\A3SSP.pdb
